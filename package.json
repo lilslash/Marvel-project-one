@@ -1,0 +1,23 @@
+{
+    "name": "marvel-project-one",
+    "version": "1.0.0",
+    "description": "DS.store",
+    "main": "index.js",
+    "scripts": {
+        "build-css": "tailwindcss build src/styles.css -o assets/style.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lilslash/Marvel-project-one.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lilslash/Marvel-project-one/issues"
+    },
+    "homepage": "https://github.com/lilslash/Marvel-project-one#readme",
+    "dependencies": {
+        "tailwindcss": "^3.0.7"
+    }
+}
